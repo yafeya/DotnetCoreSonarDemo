@@ -35,3 +35,7 @@ msbuild.wrn
 .vs/
 
 TestResults/
+.idea/
+.sonarqube/
+__pycache__
+venv

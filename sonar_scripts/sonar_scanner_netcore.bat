@@ -1,0 +1,1 @@
+python sonar_scanner_msbuild.py ..\DotnetCoreSonarDemo.sln
